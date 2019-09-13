@@ -1,0 +1,46 @@
+/* align navbar content in center */
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    text-align: center;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}
+
+.margin-cent
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3rem;
+}
+.dis1{
+    font-size: 130%;
+    color: rgb(117, 112, 112);
+}
+
+#id-dis1{
+    font-family:"Lucida Console", Monaco, monospace;
+    
+}
+#id-nav{
+    font-size:130%;
+    color: rgb(150, 144, 144);
+}
+.footer1 {
+    background-color: rgb(7, 7, 7);
+    color: whitesmoke;
+    text-align: center;
+    margin: 0;
+    
+  }
+      
+
+
+
